@@ -1,0 +1,15 @@
+langchain-core
+langchain-openai  
+langchain-community
+langchain-qdrant
+langchain-text-splitters
+qdrant-client
+pydantic-settings
+structlog
+tenacity
+redis
+aioredis
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
